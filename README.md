@@ -20,7 +20,7 @@
 
 - A passionate Back-end developer
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Currently learning back-end by Self
 - Personal website [link]()
 
 
