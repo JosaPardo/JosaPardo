@@ -12,7 +12,7 @@
 
 
 	
-## <picture><img src = "" width = 50px></picture> **About me**
+##  **About me**
 
 
 
